@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created as a one page ecommerce app.  I wanted to explore working with react and Paypal's API. 
 
 ## Available Scripts
 
